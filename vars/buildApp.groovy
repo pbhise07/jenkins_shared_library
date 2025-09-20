@@ -2,5 +2,6 @@
 
 def call(){
 
-    sh 'mvn clean package'
+    sh 'date'
+    //sh 'mvn clean package'
 }
